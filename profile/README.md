@@ -17,16 +17,16 @@ This is the GitHub repo of the quantum group at Ghent University. For more infor
   </picture>
 </a>
 
-<a href="https://github.com/maartenvd/MPSKit.jl">
+<a href="https://github.com/QuantumKitHub/MPSKit.jl">
  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=maartenvd&repo=MPSKit.jl&show_owner=true&theme=dark">
-    <img align="center" alt="MPSKit.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=maartenvd&repo=MPSKit.jl&show_owner=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuantumKitHub&repo=MPSKit.jl&show_owner=true&theme=dark">
+    <img align="center" alt="MPSKit.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumKitHub&repo=MPSKit.jl&show_owner=true">
   </picture>
 </a>
-<a href="https://github.com/quantumghent/PEPSKit.jl">
+<a href="https://github.com/QuantumKitHub/PEPSKit.jl">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=quantumghent&repo=PEPSKit.jl&show_owner=true&description_lines_count=2&theme=dark">
-    <img align="center" alt="PEPSKit.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=quantumghent&repo=PEPSKit.jl&show_owner=true&description_lines_count=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuantumKitHub&repo=PEPSKit.jl&show_owner=true&description_lines_count=2&theme=dark">
+    <img align="center" alt="PEPSKit.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumKitHub&repo=PEPSKit.jl&show_owner=true&description_lines_count=2">
   </picture>
 </a>
 
